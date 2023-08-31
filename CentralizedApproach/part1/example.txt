@@ -1,0 +1,16 @@
+Client 1 with request number: 1 just modified with a time of : 11secs, Result password is  Cracked password is 9^abs&
+Waiting Time: 0 seconds
+Response Time: 11 seconds
+==================================================
+Client 2 with request number: 1 just modified with a time of : 14secs, Result password is  Cracked password is ^&sct^
+Waiting Time: 5 seconds
+Response Time: 20 seconds
+==================================================
+Client 1 with request number: 2 just modified with a time of : 16secs, Result password is  Cracked password is ~rb9&a
+Waiting Time: 10 seconds
+Response Time: 27 seconds
+==================================================
+Client 2 with request number: 2 just modified with a time of : 14secs, Result password is  Cracked password is a&sr~9
+Waiting Time: 13 seconds
+Response Time: 27 seconds
+==================================================
